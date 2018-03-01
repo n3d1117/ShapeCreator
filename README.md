@@ -1,6 +1,4 @@
 # ShapeCreator
-Esercizio per esame di Ingegneria del Software - Febbraio 2018
-
 L’approfondimento tratta della collaborazione tra i pattern Observer, Abstract Factory e Strategy.
 ![Screenshot](https://i.imgur.com/E2gxcKz.png)
 
